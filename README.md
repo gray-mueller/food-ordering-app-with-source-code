@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <h2>Restaurant Ordering App for Android with Source Code</h2>
+  <h2>Food Ordering App with Source Code</h2>
   <i>The food delivery and order management system for the future.</i>
  <br/>
 <br />
@@ -53,7 +53,7 @@
 
 <br>
 
-The restaurant ordering app for android with source code  is perfect for customers looking to deploy a readymade and easy to use food ordering platform for their own food delivery and logistics business. Just like foodpanda and ubereats, our food delivery system can incorporate multiple restaurants as well as restaurants that operate in multiple locations. With access to the admin panel and separate applications for customers and riders, you can use this solution to create your own online food ordering and order/delivery management system instantaneously.
+An online food ordering app with source code  is perfect for customers looking to deploy a readymade and easy to use food ordering platform for their own food delivery and logistics business. Just like foodpanda and ubereats, our food delivery system can incorporate multiple restaurants as well as restaurants that operate in multiple locations. With access to the admin panel and separate applications for customers and riders, you can use this solution to create your own online food ordering and order/delivery management system instantaneously.
 
 Our solution is open source but the backend and API are proprietary, and can be obtained via paid license.
 
@@ -83,9 +83,9 @@ Our solution is open source but the backend and API are proprietary, and can be 
 
 Our food delivery system also comes with the following:
 
-- Restaurant Ordering Customer App
-- Restaurant Ordering Rider App
-- Online Ordering Restaurant App
+- Online Food Ordering Customer App
+- Online Food Ordering Rider App
+- Online Food Ordering Restaurant App
 - Customer Food Ordering Website
 - Admin Web Dashboard
 - Application ProgramInterface Server
@@ -197,7 +197,7 @@ NOTE: Email provider has been only been tested for gmail accounts
 
 ## :book: Documentation <a id="heading-8"></a>
 
-Find the link for the complete documentation of the Restaurant Ordering App for Android with Source Code [here](https://enatega.com/multivendor-documentation/).
+Find the link for the complete documentation of the Food Ordering App with Source Code [here](https://enatega.com/multivendor-documentation/).
 
 ## :tv: Demo Videos: <a id="heading-14"></a>
 
@@ -227,4 +227,4 @@ The frontend source code for our solution is completely open source. However, th
 
 ## :mailbox_with_mail: Contact Us: <a id="heading-13"></a>
 
-[Check out the Product Page and Pricing and more for Restaurant Ordering App for Android with Source Code](https://enatega.com/?utm_source=github&utm_medium=repo&utm_campaign=gray-restaurant-ordering-app-android-source-code)
+[Check out the Product Page and Pricing and more for Food Ordering App with Source Code](https://enatega.com/?utm_source=github&utm_medium=repo&utm_campaign=gray-food-ordering-app-with-source-code)
